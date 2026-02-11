@@ -31,8 +31,8 @@ _(See `compute_esi.py` for implementation details)_
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/alvarorm3008/VISUALIZATION-UIB.git](https://github.com/alvarorm3008/VISUALIZATION-UIB.git)
-    cd VISUALIZATION-UIB
+    git clone [https://github.com/alvarorm3008/VISUALIZATION-UIB.git](https://github.com/alvarorm3008/Exoplanet-Visualization.git)
+    cd Exoplanet-Visualization
     ```
 
 2.  **Set up the environment:**
